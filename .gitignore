@@ -155,6 +155,12 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 .idea/
+.venv/
+__pycache__/
+.pytest_cache/
+
+allure-results/
+reports/
 
 
 # PyCharm
